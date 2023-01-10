@@ -1,12 +1,12 @@
 # 6Companies30Days
 #Challenge Company 1 : Microsoft 
-You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
-Combination Sum with a twist.
-Bulls and Cows
-You are given an integer array nums of length n. Return maximum length of Rotation Function.
-Largest Divisible Subset.
-How to find a perfect Rectangle.
-Scheduling a Course.
+1. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
+2. Combination Sum with a twist.
+3. Bulls and Cows
+4. You are given an integer array nums of length n. Return maximum length of Rotation Function.
+5. Largest Divisible Subset.
+6. How to find a perfect Rectangle.
+7.Scheduling a Course.
 Profitable Path in a Tree.
 Number of Pairs satisfying Inequality.
 Shortest Unsorted continuous Subarray
