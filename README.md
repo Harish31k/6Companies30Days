@@ -7,30 +7,30 @@
 5. Largest Divisible Subset.
 6. How to find a perfect Rectangle.
 7.Scheduling a Course.
-Profitable Path in a Tree.
-Number of Pairs satisfying Inequality.
-Shortest Unsorted continuous Subarray
-Number of ways to arrive at a Destination.
-Longest Happy Prefix
-Seat Arrangement in a SpiceJet Problem - Online OA February ‘22
-Deletions to make an array divisible.
-Substrings containing all three Characters
+8.Profitable Path in a Tree.
+9.Number of Pairs satisfying Inequality.
+10.Shortest Unsorted continuous Subarray
+11.Number of ways to arrive at a Destination.
+12.Longest Happy Prefix
+13.Seat Arrangement in a SpiceJet Problem - Online OA February ‘22
+14.Deletions to make an array divisible.
+15.Substrings containing all three Characters
 
 
 #Challenge Company 2 : Goldman Sachs
 
-Max Points on a Line
-Valid Square
-Factorial with Trailing Zeroes
-Number of Boomerangs (Similar to peacocks question)
-Split Array into Sequences
-Minimum Consecutive Cards to pick up
-Count Good Triplets in Array (Profits in a Startup Question)
-Maximum Points in Archery Competition
-Initial Public Offering
-People and Secret
-Invalid Transactions in an EMI
-All elements of a binary Search Tree
-Rhombus Sums in a GRID
-Nice Pairs in Array (OTT Platforms and John)
-Good People based on Statements
+1.Max Points on a Line
+2.Valid Square
+3.Factorial with Trailing Zeroes
+4.Number of Boomerangs (Similar to peacocks question)
+5.Split Array into Sequences
+6.Minimum Consecutive Cards to pick up
+7.Count Good Triplets in Array (Profits in a Startup Question)
+8.Maximum Points in Archery Competition
+9.Initial Public Offering
+10.People and Secret
+11.Invalid Transactions in an EMI
+12.All elements of a binary Search Tree
+13.Rhombus Sums in a GRID
+14.Nice Pairs in Array (OTT Platforms and John)
+15.Good People based on Statements
